@@ -1,0 +1,84 @@
+
+.first-container{
+    display:flex;
+    justify-content: center;
+}
+
+.image-container{
+    display: flex;
+    padding: 20px 200px 20px 200px;
+  }
+  
+  .imag{
+    flex: 25%;
+    padding: 5px;
+  }
+    .h1{text-align: center;
+        border: 3px solid green;
+        margin:0px 10px 0px 10px;
+    }
+    .h4{margin:0px 10px 1px 10px;}
+.textcentre{text-align: vertical;margin: 50px;
+    padding:10px 10px 10px 20px;
+    text-align: center;
+}
+      .favi{
+          padding:15px 40px 20px 600px;}
+
+          .number{margin: 80px 50px 0px 600px;
+            background-color: white;
+            font-size: 20px;
+            border-radius: 20px;
+            padding:9px;
+            width: 45px;
+            border: 1px solid black;}
+
+            .Big-button{color:white;
+            background-color: #32435f;
+            font-size: 15px;
+            border-radius: 20px;
+            padding: 13px 2px 13px 2px;
+            margin: 10px 5px 10px 10px;
+            width: 150px;
+            border: 1px solid white;}
+            .what-button
+            {color:white;
+                background-color: #A13E97;
+                font-size: 15px;
+                border-radius: 20px;
+                padding: 13px 2px 13px 2px;
+                margin: 10px 5px 10px 5px;
+                width: 130px;
+                border: 1px solid white;}
+    
+          .last-text{text-align: center;}
+          .blur-image{
+              display: flex;
+              justify-content: center;
+              padding:30px 10px 30px 10px;
+              margin :0px 0px 0px 0px;
+             
+        
+                }
+                .Bigbutton{
+                    
+            background-color: #855FB1;
+            color: white;
+            font-size: 15px;
+            border-radius: 20px;
+            padding: 13px 2px 13px 2px;
+            margin: 50px 5px 10px 100px;
+            width: 150px;
+            border: 1px solid #a67f78;
+                }
+                .foot-container{
+                  background-image: url(/image-footer.jpg);
+                 margin: 0px 1px 1px 0px;}
+                .footertext1{color: #691c62;
+                  padding: 10px 40px 20px 5px;
+                }
+                .footertext2 {color: #691c62;
+                  padding: 20px 60px 40px 60px;
+                }
+                .built{color:#A13E97}
+                
